@@ -9,7 +9,7 @@ Key Features:
 * User-Friendly: Portable and easy to use, making it suitable for various environments.
 
 
-/*Technologies Used*/:
+Technologies Used:
   Arduino (C++ programming language)
   HC-SR04 Ultrasonic Sensor
   OLED Display with I2C interface
