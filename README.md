@@ -1,5 +1,5 @@
 # The Smart Distance Notifier
-__Project Overview:_
+_Project Overview:_
   The Smart Distance Notifier is an Arduino-based project designed to measure distances using an ultrasonic sensor (HC-SR04) and provide real-time feedback through an OLED display and    an audible alarm. The system helps users maintain social distancing in public spaces by alerting them when an object or person is too close.
 
 **Key Features:**
